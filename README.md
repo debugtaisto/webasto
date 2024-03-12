@@ -11,7 +11,7 @@
 ```
 > program interval run [run minutes] [sleep minutes]
 > program interval shutdown
-  program interval interrupt
+> program interval interrupt
 ```
 ### Query
 ```
