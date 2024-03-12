@@ -1,3 +1,8 @@
+### Installation and startup
+```
+> npm install
+> npm start
+```
 ### Initialize serial port device
 ```
 > init [device]
